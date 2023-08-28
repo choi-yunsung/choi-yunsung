@@ -2,10 +2,13 @@
 
 #### I'm
 - 👨🏻‍🎓 B.A. in Economics / Minor in Financial Egineering at Korea University - Seoul
-- 🧠 currently learning ML / DL at Naver Boostcamp AI-Tech
+- 🧠 learned ML / DL at Naver Boostcamp AI-Tech
+- 🔭 currently working on Gameduo as Data Analyst
 
 #### Skills
-- ⚡ Python / Pytorch / TensorFlow / HuggingFace / Pandas / Numpy / SQL 
+- ⚡ Python / Pandas / Numpy / SQL
+- ⚡ Pytorch / TensorFlow / HuggingFace
+- ⚡ GCP / AWS
 
 
 #### How to reach me...
